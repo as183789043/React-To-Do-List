@@ -6,7 +6,7 @@
 #### Tip if start server error  Check this link [solution](https://stackoverflow.com/questions/74726224/opensslerrorstack-error03000086digital-envelope-routinesinitialization-e)
 ```
 git clone https://github.com/as183789043/Keeper_APP.git
-cd  Keeper_APP
+cd  React-To-Do-List
 npm i
 npm start 
 ```
