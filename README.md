@@ -17,7 +17,7 @@ npm start
 
 ---
 ### V1
-### Add Item (git)
+### Add Item 
 ![1709316088734](https://github.com/as183789043/React-To-Do-List/assets/56618553/e4944567-ff07-43ea-be41-b88cce8441bc)
 
 ### State Change
