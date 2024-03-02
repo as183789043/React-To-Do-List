@@ -12,8 +12,7 @@ npm start
 ```
 ---
 
-### V2
-### Change css to finish  task
+### V2 Change css to finish  task
 ![1709399638965](https://github.com/as183789043/React-To-Do-List/assets/56618553/56afe4a3-95f5-46ca-9578-243d36798648)
 
 ---
